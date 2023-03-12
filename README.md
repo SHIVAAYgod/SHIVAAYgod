@@ -1,3 +1,5 @@
+<img src= "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
+
 <h1 align="center">こんにちは (Kon'nichiwa) ANKIT GOSWAMI</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
