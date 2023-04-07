@@ -19,7 +19,8 @@
 - 🧑🏻‍💻 currently learning web development
 
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ankit-g-374163238/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ankit-g-374163238/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitgpm529@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
