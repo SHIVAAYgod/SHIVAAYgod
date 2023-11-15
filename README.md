@@ -3,20 +3,17 @@
 
 <img src= "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
 
-- 🔭 I’m currently working on **MY DSA SKILLS**
+- 🔭 I’m currently working on **MACHINE LEARNING**
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB AND IOS DEVELOPMENT**
 
-- 👀 I’m interested in Competitive programming
+- 👀 I’m interested in MACHINE AND DEEP LEARNING
 
 
 - 🌱 I’m currently learning Data Structures & Algorithms, CS fundamentals
 
 
 - 💞️ I’m looking to collaborate on Android Development project in flutter, ML projects.
-
-
-- 🧑🏻‍💻 currently learning web development
 
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ankit-g-374163238/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitgpm529@gmail.com)
